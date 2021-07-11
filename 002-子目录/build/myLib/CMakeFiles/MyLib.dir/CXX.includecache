@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dushi/Documents/github/learnCppAndCmake/变量/myLib/Mylib.cpp
+Mylib.h
+/Users/dushi/Documents/github/learnCppAndCmake/变量/myLib/Mylib.h
+iostream
+-
+
+/Users/dushi/Documents/github/learnCppAndCmake/变量/myLib/Mylib.h
+

@@ -1,0 +1,6 @@
+/Users/dushi/Documents/github/learnCppAndCmake/变量/build/CMakeFiles/rebuild_cache.dir
+/Users/dushi/Documents/github/learnCppAndCmake/变量/build/CMakeFiles/edit_cache.dir
+/Users/dushi/Documents/github/learnCppAndCmake/变量/build/CMakeFiles/Test.dir
+/Users/dushi/Documents/github/learnCppAndCmake/变量/build/myLib/CMakeFiles/rebuild_cache.dir
+/Users/dushi/Documents/github/learnCppAndCmake/变量/build/myLib/CMakeFiles/edit_cache.dir
+/Users/dushi/Documents/github/learnCppAndCmake/变量/build/myLib/CMakeFiles/MyLib.dir
